@@ -1,5 +1,5 @@
 from selenium import webdriver
-from ..Pages.PerspectivePageObject import PerspectivePageObject
+from IgnitionAutomationTools.Pages.PerspectivePageObject import PerspectivePageObject
 
 
 with webdriver.Chrome() as web_driver:
